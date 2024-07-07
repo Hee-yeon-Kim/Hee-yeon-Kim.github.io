@@ -232,6 +232,7 @@ input, select, textarea {
 	}
 
 		.container.medium {
+			text-align: center;
 			width: 900px;
 		}
 
