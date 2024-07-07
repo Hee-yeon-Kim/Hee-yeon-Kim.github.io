@@ -2008,7 +2008,15 @@ button {
 			margin: -4em 0 4em -4em;
 			width: auto;
 		}
-
+	 
+		.iframe-container { 
+			aspect-ratio: 16 / 9;
+			}
+			iframe{
+			  display: block;
+			  width:100%;
+			  height:100%;
+			}
 /* Icons */
 
 	.icon {
