@@ -2260,13 +2260,18 @@ button {
 		text-align: left;
 	}
  
-	 
+	#project h5 {
+		font-weight: 600;
+		text-align: center;
+		font-size: 1.5em; 
+	}
 	#project h6 {
 		font-weight: 600;
 		text-align: center;
-		font-size: 1.05em;
-		line-height: 1.75em; 
+		font-size: 0.8em; 
+		letter-spacing: -0.035em;
 	}
+	 
 /* Copyright */
 
 	#copyright {
