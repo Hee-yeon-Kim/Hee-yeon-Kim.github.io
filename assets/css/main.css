@@ -2257,6 +2257,8 @@ button {
 	}
 	#project p {
 
+		font-size: 0.9em;
+		line-height: 1.75em;
 		text-align: left;
 	}
  
