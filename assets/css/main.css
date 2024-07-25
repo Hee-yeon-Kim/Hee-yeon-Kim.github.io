@@ -2253,6 +2253,19 @@ button {
 		text-align: center;
 		font-size: 0.8em;
 		color: #8a8a8a;
+		font-weight: 600;
+	}
+	#project p {
+
+		text-align: left;
+	}
+ 
+	 
+	#project h6 {
+		font-weight: 600;
+		text-align: center;
+		font-size: 1.05em;
+		line-height: 1.75em; 
 	}
 /* Copyright */
 
