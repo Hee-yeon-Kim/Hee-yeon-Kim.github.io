@@ -228,7 +228,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
-		width: 1200px;
+		width: 1250px;
 	}
 
 		.container.medium {
@@ -1663,7 +1663,8 @@ input, select, textarea {
 
 /* Button */
 button {
-   margin: 0 20px 20px 0px;
+    margin: 0 20px 20px 0px;
+	text-align: center;
 }
 
 .w-btn {
@@ -1676,7 +1677,7 @@ button {
     /* box-shadow: 0 12px 45px rgba(0, 0, 0, 0.3); */
     text-decoration: none;
     font-weight: 600;
-    transition: 0.25s;
+    transition: 0.25s; 
 }
 
 .w-btn-outline {
@@ -1688,6 +1689,7 @@ button {
     text-decoration: none;
     font-weight: 600;
     transition: 0.25s;
+	
 }
 .w-btn-red-outline:hover {
     background-color: #40becf;
@@ -2256,12 +2258,12 @@ button {
 		font-weight: 600;
 	}
 	#project p {
-
-		font-size: 0.7em;
+		font-size: 0.9em;
 		line-height: 1.75em;
 		text-align: left;
 	}
  
+	 
 	#project h5 {
 		font-weight: 600;
 		text-align: center;
@@ -2273,6 +2275,7 @@ button {
 		font-size: 0.8em; 
 		letter-spacing: -0.035em;
 	}
+	 
 	 
 /* Copyright */
 
@@ -2510,10 +2513,12 @@ button {
 				}
 
 				.box.style2 {
-					max-width: 90em;
+					max-width: 120em;
 					margin-left: auto !important;
 					margin-right: auto !important;
-				}
+					height: 120em;
+ 				}
+
 
 		/* Wrappers */
 
@@ -2547,8 +2552,8 @@ button {
 			}
 
 				#top .image {
-					width: 15em;
-					height: 15em;
+					width: 12em;
+					height: 12em;
 					margin-bottom: 0;
 				}
 
@@ -2578,5 +2583,7 @@ button {
 					#copyright li:first-child {
 						margin-top: 0;
 					}
+
+					
 
 	}
